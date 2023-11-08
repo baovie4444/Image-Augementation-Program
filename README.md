@@ -1,6 +1,10 @@
 # Image-Augementation-Program
 This Python program is for a graphical user interface (GUI) application named "Image Augmentation App", which is designed to perform various image augmentation techniques on selected images. This application is built using the `tkinter` library for the GUI components, `PIL` (Python Imaging Library) for image processing, and other standard Python libraries. Here's an overview of its functionality:
 
+
+![image](https://github.com/baovie4444/Image-Augementation-Program/assets/125261308/7bb60b76-0c7e-4186-a041-322c8ca7a88c)
+
+
 ### Features
 
 1. **Image Augmentation Functions:**
